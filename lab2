@@ -1,0 +1,8 @@
+print('Створення прикладних програм на мові Python, Lab2')
+print('Гуцуляк Андрій, Num8')
+print('Введи:')
+x = float(input('x = '))
+y = float(input('y = '))
+z = float(input('z = '))
+result = (((((12**x)+17.1)*(y-254.2))/(17.4-z))-4.2)
+print('Результат: ', result)
